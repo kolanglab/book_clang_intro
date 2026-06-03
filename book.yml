@@ -13,10 +13,10 @@ chapters:
       - pointers.md
   - part: part-data.md
     chapters:
-      - typedef.md
       - struct.md
       - union.md
       - function-pointers.md
+      - typedef.md
       - const.md
       - memory.md
   - part: part-optimization.md
