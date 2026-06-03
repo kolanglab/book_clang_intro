@@ -27,7 +27,7 @@ chapters:
       - glossary.md
       - further-reading.md
 
-repository: "https://github.com/ko1/book_clang_intro"
+repository: "https://github.com/kolanglab/book_clang_intro"
 
 github_review:
   enabled: true
