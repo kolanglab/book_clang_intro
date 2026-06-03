@@ -1,0 +1,27 @@
+title: "言語処理系を作りたい人のためのC言語入門"
+author: "ligarb AI"
+language: "ja"
+ai_generated: true
+bibliography: references.bib
+chapters:
+  - cover: cover.md
+  - introduction.md
+  - part: part-c-basics.md
+    chapters:
+      - basics.md
+      - types.md
+      - pointers.md
+  - part: part-data.md
+    chapters:
+      - struct.md
+      - union.md
+      - function-pointers.md
+      - const.md
+      - memory.md
+  - part: part-optimization.md
+    chapters:
+      - optimization-basics.md
+      - optimization-advanced.md
+  - appendix:
+      - glossary.md
+      - further-reading.md
