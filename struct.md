@@ -50,7 +50,7 @@ struct Token t = { .kind = 1, .line = 3, .text = "let" };
 
 ## typedefと組み合わせて短く書く
 
-前章までで `struct Token` のように毎回 `struct` を書くのは少し冗長です。`typedef` キーワード（詳しくは後の章（[](typedef.md)）で扱います）を使うと、すっきりします。
+ここまで見てきたように、`struct Token` のように毎回 `struct` を書くのは少し冗長です。`typedef` キーワード（詳しくは後の章（[](typedef.md)）で扱います）を使うと、すっきりします。
 
 ```c
 typedef struct Token {
